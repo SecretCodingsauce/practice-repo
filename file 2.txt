@@ -1,3 +1,7 @@
 this is file 2
 
 adding a line in file 2
+
+adding more lines to file 2
+leaving file 1 for remote addition.
+

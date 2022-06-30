@@ -1,1 +1,4 @@
 this is file 3
+
+i am adding 2 new lines to each file
+ another line
